@@ -9,10 +9,7 @@
 ## 📽️ Demo  
 <!-- Embed video or link here -->
 
-
-Uploading TuitionTracker_demo.mp4…
-
-
+https://github.com/user-attachments/assets/87dae165-f3d8-4639-8171-10a8ec72fbf4
 
 ---
 
