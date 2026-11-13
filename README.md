@@ -1,4 +1,4 @@
-# 📊 Tuition-Tracker  
+# Tuition-Tracker  
 
 **Track and Manage Tuition Payments**  
 > A streamlined app to log, monitor, and manage tuition fees.
